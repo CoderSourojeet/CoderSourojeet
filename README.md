@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @CoderSourojeet
-- 👀 I’m interested in Roblox
-- 🌱 I’m currently learning Roblox Lua
-- 💞️ I’m looking to collaborate on Roblox Game Development
-- 📫 How to reach me : sourojeetshyam@gmail.com
+- im erex
+- i like lua
+
 
 <!---
 CoderSourojeet/CoderSourojeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
